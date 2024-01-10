@@ -1,0 +1,1000 @@
+[
+  {
+    "campeonato_id": 10,
+    "nome": "Campeonato Brasileiro",
+    "slug": "campeonato-brasileiro",
+    "nome_popular": "Brasileirão",
+    "edicao_atual": {
+      "edicao_id": 70,
+      "temporada": "2023",
+      "nome": "Campeonato Brasileiro 2023",
+      "nome_popular": "Brasileirão 2023",
+      "slug": "campeonato-brasileiro-2023"
+    },
+    "fase_atual": {
+      "fase_id": 317,
+      "nome": "Fase Única",
+      "slug": "fase-unica",
+      "tipo": "pontos-corridos",
+      "_link": "/v1/campeonatos/10/fases/317"
+    },
+    "rodada_atual": {
+      "nome": "29ª Rodada",
+      "slug": "29a-rodada",
+      "rodada": 29,
+      "status": "agendada"
+    },
+    "status": "andamento",
+    "tipo": "Pontos Corridos",
+    "logo": "https://api.api-futebol.com.br/images/competicao/brasileiro-seriea.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/10"
+  },
+  {
+    "campeonato_id": 2,
+    "nome": "Copa do Brasil",
+    "slug": "copa-do-brasil",
+    "nome_popular": "Copa do Brasil",
+    "edicao_atual": {
+      "edicao_id": 69,
+      "temporada": "2023",
+      "nome": "Copa do Brasil 2023",
+      "nome_popular": "Copa do Brasil 2023",
+      "slug": "copa-do-brasil-2023"
+    },
+    "fase_atual": {
+      "fase_id": 316,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/2/fases/316"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Mata-Mata",
+    "logo": "https://api.api-futebol.com.br/images/competicao/copa-do-brasil.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/2"
+  },
+  {
+    "campeonato_id": 22,
+    "nome": "Campeonato Baiano",
+    "slug": "campeonato-baiano",
+    "nome_popular": "Baianão",
+    "edicao_atual": {
+      "edicao_id": 49,
+      "temporada": "2023",
+      "nome": "Campeonato Baiano 2023",
+      "nome_popular": "Baianão 2023",
+      "slug": "campeonato-baiano-2023"
+    },
+    "fase_atual": {
+      "fase_id": 229,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/22/fases/229"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-baiano.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/22"
+  },
+  {
+    "campeonato_id": 30,
+    "nome": "Campeonato Brasileiro Feminino",
+    "slug": "campeonato-brasileiro-feminino",
+    "nome_popular": "Brasileirão Feminino",
+    "edicao_atual": {
+      "edicao_id": 76,
+      "temporada": "2023",
+      "nome": "Campeonato Brasileiro Feminino 2023",
+      "nome_popular": "Brasileirão Feminino 2023",
+      "slug": "campeonato-brasileiro-feminino-2023"
+    },
+    "fase_atual": {
+      "fase_id": 354,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/30/fases/354"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/brasileiro-seriea.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/30"
+  },
+  {
+    "campeonato_id": 31,
+    "nome": "Campeonato Brasileiro Feminino A2",
+    "slug": "campeonato-brasileiro-feminino-a2",
+    "nome_popular": "Brasileirão Feminino A2",
+    "edicao_atual": {
+      "edicao_id": 85,
+      "temporada": "2023",
+      "nome": "Campeonato Brasileiro Feminino A2 2023",
+      "nome_popular": "Brasileirão Feminino A2 2023",
+      "slug": "campeonato-brasileiro-feminino-a2-2023"
+    },
+    "fase_atual": {
+      "fase_id": 396,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/31/fases/396"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/brasileiro-seriea.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/31"
+  },
+  {
+    "campeonato_id": 14,
+    "nome": "Campeonato Brasileiro Série B",
+    "slug": "campeonato-brasileiro-serie-b",
+    "nome_popular": "Brasileirão Série B",
+    "edicao_atual": {
+      "edicao_id": 80,
+      "temporada": "2023",
+      "nome": "Campeonato Brasileiro Série B 2023",
+      "nome_popular": "Brasileirão Série B 2023",
+      "slug": "campeonato-brasileiro-serie-b-2023"
+    },
+    "fase_atual": {
+      "fase_id": 371,
+      "nome": "Fase Única",
+      "slug": "fase-unica",
+      "tipo": "pontos-corridos",
+      "_link": "/v1/campeonatos/14/fases/371"
+    },
+    "rodada_atual": {
+      "nome": "34ª Rodada",
+      "slug": "34a-rodada",
+      "rodada": 34,
+      "status": "agendada"
+    },
+    "status": "andamento",
+    "tipo": "Pontos Corridos",
+    "logo": "https://api.api-futebol.com.br/images/competicao/brasileiro-serieb.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/14"
+  },
+  {
+    "campeonato_id": 16,
+    "nome": "Campeonato Brasileiro Série C",
+    "slug": "campeonato-brasileiro-serie-c",
+    "nome_popular": "Brasileirão Série C",
+    "edicao_atual": {
+      "edicao_id": 81,
+      "temporada": "2023",
+      "nome": "Campeonato Brasileiro Série C 2023",
+      "nome_popular": "Brasileirão Série C 2023",
+      "slug": "campeonato-brasileiro-serie-c-2023"
+    },
+    "fase_atual": {
+      "fase_id": 374,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/16/fases/374"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/brasileiro-seriec.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/16"
+  },
+  {
+    "campeonato_id": 17,
+    "nome": "Campeonato Brasileiro Série D",
+    "slug": "campeonato-brasileiro-serie-d",
+    "nome_popular": "Brasileirão Série D",
+    "edicao_atual": {
+      "edicao_id": 82,
+      "temporada": "2023",
+      "nome": "Campeonato Brasileiro Série D 2023",
+      "nome_popular": "Brasileirão Série D 2023",
+      "slug": "campeonato-brasileiro-serie-d-2023"
+    },
+    "fase_atual": {
+      "fase_id": 380,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/17/fases/380"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/brasileiro-seried.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/17"
+  },
+  {
+    "campeonato_id": 34,
+    "nome": "Campeonato Brasileiro Sub-17",
+    "slug": "campeonato-brasileiro-sub-17",
+    "nome_popular": "Brasileirão Sub-17",
+    "edicao_atual": {
+      "edicao_id": 88,
+      "temporada": "2023",
+      "nome": "Campeonato Brasileiro Sub-17 2023",
+      "nome_popular": "Brasileirão Sub-17 2023",
+      "slug": "campeonato-brasileiro-sub-17-2023"
+    },
+    "fase_atual": {
+      "fase_id": 409,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/34/fases/409"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/brasileiro-seriea.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/34"
+  },
+  {
+    "campeonato_id": 33,
+    "nome": "Campeonato Brasileiro Sub-20",
+    "slug": "campeonato-brasileiro-sub-20",
+    "nome_popular": "Brasileirão Sub-20",
+    "edicao_atual": {
+      "edicao_id": 78,
+      "temporada": "2023",
+      "nome": "Campeonato Brasileiro Sub-20 2023",
+      "nome_popular": "Brasileirão Sub-20 2023",
+      "slug": "campeonato-brasileiro-sub-20-2023"
+    },
+    "fase_atual": {
+      "fase_id": 364,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/33/fases/364"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/brasileiro-seriea.png",
+    "regiao": "nacional",
+    "_link": "/v1/campeonatos/33"
+  },
+  {
+    "campeonato_id": 32,
+    "nome": "Campeonato Capixaba",
+    "slug": "campeonato-capixaba",
+    "nome_popular": "Capixaba",
+    "edicao_atual": {
+      "edicao_id": 62,
+      "temporada": "2023",
+      "nome": "Campeonato Capixaba 2023",
+      "nome_popular": "Capixaba 2023",
+      "slug": "campeonato-capixaba-2023"
+    },
+    "fase_atual": {
+      "fase_id": 284,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/32/fases/284"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-capixaba.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/32"
+  },
+  {
+    "campeonato_id": 6,
+    "nome": "Campeonato Carioca",
+    "slug": "campeonato-carioca",
+    "nome_popular": "Carioca",
+    "edicao_atual": {
+      "edicao_id": 46,
+      "temporada": "2023",
+      "nome": "Campeonato Carioca 2023",
+      "nome_popular": "Carioca 2023",
+      "slug": "campeonato-carioca-2023"
+    },
+    "fase_atual": {
+      "fase_id": 220,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/6/fases/220"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/carioca.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/6"
+  },
+  {
+    "campeonato_id": 13,
+    "nome": "Campeonato Catarinense",
+    "slug": "campeonato-catarinense",
+    "nome_popular": "Catarinense",
+    "edicao_atual": {
+      "edicao_id": 50,
+      "temporada": "2023",
+      "nome": "Campeonato Catarinense 2023",
+      "nome_popular": "Catarinense 2023",
+      "slug": "campeonato-catarinense-2023"
+    },
+    "fase_atual": {
+      "fase_id": 233,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/13/fases/233"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-catarinense.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/13"
+  },
+  {
+    "campeonato_id": 23,
+    "nome": "Campeonato Cearense",
+    "slug": "campeonato-cearense",
+    "nome_popular": "Cearense",
+    "edicao_atual": {
+      "edicao_id": 51,
+      "temporada": "2023",
+      "nome": "Campeonato Cearense 2023",
+      "nome_popular": "Cearense 2023",
+      "slug": "campeonato-cearense-2023"
+    },
+    "fase_atual": {
+      "fase_id": 237,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/23/fases/237"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-cearense.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/23"
+  },
+  {
+    "campeonato_id": 11,
+    "nome": "Campeonato Gaúcho",
+    "slug": "campeonato-gaucho",
+    "nome_popular": "Gaúcho",
+    "edicao_atual": {
+      "edicao_id": 52,
+      "temporada": "2023",
+      "nome": "Campeonato Gaúcho 2023",
+      "nome_popular": "Gaúcho 2023",
+      "slug": "campeonato-gaucho-2023"
+    },
+    "fase_atual": {
+      "fase_id": 240,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/11/fases/240"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-gaucho.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/11"
+  },
+  {
+    "campeonato_id": 21,
+    "nome": "Campeonato Goiano",
+    "slug": "campeonato-goiano",
+    "nome_popular": "Goianão",
+    "edicao_atual": {
+      "edicao_id": 53,
+      "temporada": "2023",
+      "nome": "Campeonato Goiano 2023",
+      "nome_popular": "Goianão 2023",
+      "slug": "campeonato-goiano-2023"
+    },
+    "fase_atual": {
+      "fase_id": 244,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/21/fases/244"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-goiano.jpeg",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/21"
+  },
+  {
+    "campeonato_id": 28,
+    "nome": "Campeonato Mato-Grossense",
+    "slug": "campeonato-mato-grossense",
+    "nome_popular": "Mato-Grossense",
+    "edicao_atual": {
+      "edicao_id": 58,
+      "temporada": "2023",
+      "nome": "Campeonato Mato-Grossense 2023",
+      "nome_popular": "Mato-Grossense 2023",
+      "slug": "mato-grossense-2023"
+    },
+    "fase_atual": {
+      "fase_id": 265,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/28/fases/265"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-mato-grossense.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/28"
+  },
+  {
+    "campeonato_id": 12,
+    "nome": "Campeonato Mineiro",
+    "slug": "campeonato-mineiro",
+    "nome_popular": "Mineiro",
+    "edicao_atual": {
+      "edicao_id": 45,
+      "temporada": "2023",
+      "nome": "Campeonato Mineiro 2023",
+      "nome_popular": "Mineiro 2023",
+      "slug": "campeonato-mineiro-2023"
+    },
+    "fase_atual": {
+      "fase_id": 217,
+      "nome": "Trófeu Inconfidência (Final)",
+      "slug": "trofeu-inconfidencia-final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/12/fases/217"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-mineiro.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/12"
+  },
+  {
+    "campeonato_id": 27,
+    "nome": "Campeonato Paraense",
+    "slug": "campeonato-paraense",
+    "nome_popular": "Paraense",
+    "edicao_atual": {
+      "edicao_id": 57,
+      "temporada": "2023",
+      "nome": "Campeonato Paraense 2023",
+      "nome_popular": "Paraense 2023",
+      "slug": "paraense-2023"
+    },
+    "fase_atual": {
+      "fase_id": 261,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/27/fases/261"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paraense.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/27"
+  },
+  {
+    "campeonato_id": 26,
+    "nome": "Campeonato Paranaense",
+    "slug": "campeonato-paranaense",
+    "nome_popular": "Paranaense",
+    "edicao_atual": {
+      "edicao_id": 56,
+      "temporada": "2023",
+      "nome": "Campeonato Paranaense 2023",
+      "nome_popular": "Paranaense 2023",
+      "slug": "paranaense-2023"
+    },
+    "fase_atual": {
+      "fase_id": 256,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/26/fases/256"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paranaense.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/26"
+  },
+  {
+    "campeonato_id": 9,
+    "nome": "Campeonato Paulista",
+    "slug": "campeonato-paulista",
+    "nome_popular": "Paulista",
+    "edicao_atual": {
+      "edicao_id": 47,
+      "temporada": "2023",
+      "nome": "Campeonato Paulista 2023",
+      "nome_popular": "Paulista 2023",
+      "slug": "campeonato-paulista-2023"
+    },
+    "fase_atual": {
+      "fase_id": 226,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/9/fases/226"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paulista.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/9"
+  },
+  {
+    "campeonato_id": 40,
+    "nome": "Campeonato Paulista A2",
+    "slug": "campeonato-paulista-a2",
+    "nome_popular": "Paulista A2",
+    "edicao_atual": {
+      "edicao_id": 65,
+      "temporada": "2023",
+      "nome": "Campeonato Paulista A2 2023",
+      "nome_popular": "Paulista A2 2023",
+      "slug": "campeonato-paulista-a2-2023"
+    },
+    "fase_atual": {
+      "fase_id": 296,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/40/fases/296"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paulista.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/40"
+  },
+  {
+    "campeonato_id": 41,
+    "nome": "Campeonato Paulista A3",
+    "slug": "campeonato-paulista-a3",
+    "nome_popular": "Paulista A2",
+    "edicao_atual": {
+      "edicao_id": 66,
+      "temporada": "2023",
+      "nome": "Campeonato Paulista A3 2023",
+      "nome_popular": "Paulista A2 2023",
+      "slug": "campeonato-paulista-a3-2023"
+    },
+    "fase_atual": {
+      "fase_id": 300,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/41/fases/300"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paulista.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/41"
+  },
+  {
+    "campeonato_id": 36,
+    "nome": "Campeonato Paulista Feminino",
+    "slug": "campeonato-paulista-feminino",
+    "nome_popular": "Paulista Feminino",
+    "edicao_atual": {
+      "edicao_id": 86,
+      "temporada": "2023",
+      "nome": "Campeonato Paulista Feminino 2023",
+      "nome_popular": "Paulista Feminino 2023",
+      "slug": "campeonato-paulista-feminino-2023"
+    },
+    "fase_atual": {
+      "fase_id": 398,
+      "nome": "Copa Paulista (Semi-final)",
+      "slug": "copa-paulista-semi-final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/36/fases/398"
+    },
+    "rodada_atual": null,
+    "status": "andamento",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paulista.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/36"
+  },
+  {
+    "campeonato_id": 39,
+    "nome": "Campeonato Paulista Sub-15",
+    "slug": "campeonato-paulista-sub-15",
+    "nome_popular": "Paulista Sub-15",
+    "edicao_atual": {
+      "edicao_id": 83,
+      "temporada": "2023",
+      "nome": "Campeonato Paulista Sub-15 2023",
+      "nome_popular": "Paulista Sub-15 2023",
+      "slug": "campeonato-paulista-sub-15-2023"
+    },
+    "fase_atual": {
+      "fase_id": 384,
+      "nome": "Quartas de Final",
+      "slug": "quartas-de-final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/39/fases/384"
+    },
+    "rodada_atual": null,
+    "status": "andamento",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paulista.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/39"
+  },
+  {
+    "campeonato_id": 38,
+    "nome": "Campeonato Paulista Sub-17",
+    "slug": "campeonato-paulista-sub-17",
+    "nome_popular": "Paulista Sub-17",
+    "edicao_atual": {
+      "edicao_id": 79,
+      "temporada": "2023",
+      "nome": "Campeonato Paulista Sub-17 2023",
+      "nome_popular": "Paulista Sub-17 2023",
+      "slug": "campeonato-paulista-sub-17-2023"
+    },
+    "fase_atual": {
+      "fase_id": 368,
+      "nome": "Quartas de Final",
+      "slug": "quartas-de-final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/38/fases/368"
+    },
+    "rodada_atual": null,
+    "status": "andamento",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paulista.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/38"
+  },
+  {
+    "campeonato_id": 37,
+    "nome": "Campeonato Paulista Sub-20",
+    "slug": "campeonato-paulista-sub-20",
+    "nome_popular": "Paulista Sub-20",
+    "edicao_atual": {
+      "edicao_id": 84,
+      "temporada": "2023",
+      "nome": "Campeonato Paulista Sub-20 2023",
+      "nome_popular": "Paulista Sub-20 2023",
+      "slug": "campeonato-paulista-sub-20-2023"
+    },
+    "fase_atual": {
+      "fase_id": 390,
+      "nome": "Quartas de Final",
+      "slug": "quartas-de-final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/37/fases/390"
+    },
+    "rodada_atual": null,
+    "status": "andamento",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paulista.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/37"
+  },
+  {
+    "campeonato_id": 25,
+    "nome": "Campeonato Pernambucano",
+    "slug": "campeonato-pernambucano",
+    "nome_popular": "Pernambucano",
+    "edicao_atual": {
+      "edicao_id": 55,
+      "temporada": "2023",
+      "nome": "Campeonato Pernambucano 2023",
+      "nome_popular": "Pernambucano 2023",
+      "slug": "pernambucano-2023"
+    },
+    "fase_atual": {
+      "fase_id": 252,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/25/fases/252"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-pernambucano.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/25"
+  },
+  {
+    "campeonato_id": 20,
+    "nome": "Champions League",
+    "slug": "champions-league",
+    "nome_popular": "Champions League",
+    "edicao_atual": {
+      "edicao_id": 89,
+      "temporada": "2023-2024",
+      "nome": "Champions League 2023-2024",
+      "nome_popular": "Champions League 2023-2024",
+      "slug": "champions-league-23-24"
+    },
+    "fase_atual": {
+      "fase_id": 411,
+      "nome": "Fase de Grupos",
+      "slug": "fase-de-grupos",
+      "tipo": "grupos",
+      "_link": "/v1/campeonatos/20/fases/411"
+    },
+    "rodada_atual": null,
+    "status": "andamento",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/championsleague.png",
+    "regiao": "internacional",
+    "_link": "/v1/campeonatos/20"
+  },
+  {
+    "campeonato_id": 18,
+    "nome": "Copa América",
+    "slug": "copa-america",
+    "nome_popular": "Copa América",
+    "edicao_atual": {
+      "edicao_id": 24,
+      "temporada": "2021",
+      "nome": "Copa América 2021",
+      "nome_popular": "Copa América 2021",
+      "slug": "copa-america-2021"
+    },
+    "fase_atual": {
+      "fase_id": 120,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/18/fases/120"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/copa-america.png",
+    "regiao": "internacional",
+    "_link": "/v1/campeonatos/18"
+  },
+  {
+    "campeonato_id": 24,
+    "nome": "Copa do Mundo",
+    "slug": "copa-do-mundo",
+    "nome_popular": "Copa do Mundo",
+    "edicao_atual": {
+      "edicao_id": 43,
+      "temporada": "Catar 2022",
+      "nome": "Copa do Mundo Catar 2022",
+      "nome_popular": "Copa do Mundo Catar 2022",
+      "slug": "copa-do-mundo-catar-2022"
+    },
+    "fase_atual": {
+      "fase_id": 205,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/24/fases/205"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/copa-do-mundo-2022.png",
+    "regiao": "internacional",
+    "_link": "/v1/campeonatos/24"
+  },
+  {
+    "campeonato_id": 43,
+    "nome": "Copa do Mundo Feminina",
+    "slug": "copa-do-mundo-feminina",
+    "nome_popular": "Copa do Mundo Feminina",
+    "edicao_atual": {
+      "edicao_id": 77,
+      "temporada": "2023",
+      "nome": "Copa do Mundo Feminina 2023",
+      "nome_popular": "Copa do Mundo Feminina 2023",
+      "slug": "copa-do-mundo-feminina-2023"
+    },
+    "fase_atual": {
+      "fase_id": 359,
+      "nome": "Disputa 3o lugar",
+      "slug": "disputa-3o-lugar",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/43/fases/359"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/copa-do-mundo-2023-feminina.png",
+    "regiao": "internacional",
+    "_link": "/v1/campeonatos/43"
+  },
+  {
+    "campeonato_id": 15,
+    "nome": "Copa do Nordeste",
+    "slug": "copa-do-nordeste",
+    "nome_popular": "Copa do Nordeste",
+    "edicao_atual": {
+      "edicao_id": 54,
+      "temporada": "2023",
+      "nome": "Copa do Nordeste 2023",
+      "nome_popular": "Copa do Nordeste 2023",
+      "slug": "copa-do-nordeste-2023"
+    },
+    "fase_atual": {
+      "fase_id": 248,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/15/fases/248"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/copa-do-nordeste.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/15"
+  },
+  {
+    "campeonato_id": 7,
+    "nome": "Copa Libertadores da América",
+    "slug": "copa-libertadores-da-america",
+    "nome_popular": "Libertadores",
+    "edicao_atual": {
+      "edicao_id": 71,
+      "temporada": "2023",
+      "nome": "Copa Libertadores da América 2023",
+      "nome_popular": "Libertadores 2023",
+      "slug": "copa-libertadores-da-america-2023"
+    },
+    "fase_atual": {
+      "fase_id": 325,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/7/fases/325"
+    },
+    "rodada_atual": null,
+    "status": "andamento",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/libertadores.png",
+    "regiao": "continental",
+    "_link": "/v1/campeonatos/7"
+  },
+  {
+    "campeonato_id": 42,
+    "nome": "Copa Paulista",
+    "slug": "copa-paulista",
+    "nome_popular": "Copa Paulista",
+    "edicao_atual": {
+      "edicao_id": 87,
+      "temporada": "2023",
+      "nome": "Copa Paulista 2023",
+      "nome_popular": "Copa Paulista 2023",
+      "slug": "copa-paulista-2023"
+    },
+    "fase_atual": {
+      "fase_id": 405,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/42/fases/405"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/campeonato-paulista.png",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/42"
+  },
+  {
+    "campeonato_id": 29,
+    "nome": "Copa São Paulo de Futebol Jr",
+    "slug": "copa-sao-paulo-de-futebol-jr",
+    "nome_popular": "Copinha",
+    "edicao_atual": {
+      "edicao_id": 59,
+      "temporada": "2023",
+      "nome": "Copa São Paulo de Futebol Jr 2023",
+      "nome_popular": "Copinha 2023",
+      "slug": "copinha-2023"
+    },
+    "fase_atual": {
+      "fase_id": 272,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/29/fases/272"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/copinha.jpeg",
+    "regiao": "regional",
+    "_link": "/v1/campeonatos/29"
+  },
+  {
+    "campeonato_id": 8,
+    "nome": "Copa Sulamericana",
+    "slug": "copa-sulamericana",
+    "nome_popular": "Sulamericana",
+    "edicao_atual": {
+      "edicao_id": 72,
+      "temporada": "2023",
+      "nome": "Copa Sulamericana 2023",
+      "nome_popular": "Sulamericana 2023",
+      "slug": "copa-sul-americana-2023"
+    },
+    "fase_atual": {
+      "fase_id": 332,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/8/fases/332"
+    },
+    "rodada_atual": null,
+    "status": "andamento",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/sulamericana.png",
+    "regiao": "continental",
+    "_link": "/v1/campeonatos/8"
+  },
+  {
+    "campeonato_id": 19,
+    "nome": "Eurocopa",
+    "slug": "eurocopa",
+    "nome_popular": "Eurocopa",
+    "edicao_atual": {
+      "edicao_id": 25,
+      "temporada": "2020",
+      "nome": "Eurocopa 2020",
+      "nome_popular": "Eurocopa 2020",
+      "slug": "eurocopa-2020"
+    },
+    "fase_atual": {
+      "fase_id": 125,
+      "nome": "Final",
+      "slug": "final",
+      "tipo": "mata-mata",
+      "_link": "/v1/campeonatos/19/fases/125"
+    },
+    "rodada_atual": null,
+    "status": "finalizado",
+    "tipo": "Misto",
+    "logo": "https://api.api-futebol.com.br/images/competicao/eurocopa.png",
+    "regiao": "internacional",
+    "_link": "/v1/campeonatos/19"
+  }
+]
