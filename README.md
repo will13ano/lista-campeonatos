@@ -1,6 +1,5 @@
-# talk-pinia
-
-This template should help get you started developing with Vue 3 in Vite.
+# Lista Campeonatos
+![Tecnologias](https://skillicons.dev/icons?i=vue,ts,tailwind)
 
 ## Recommended IDE Setup
 
